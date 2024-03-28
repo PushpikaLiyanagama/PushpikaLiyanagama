@@ -66,8 +66,7 @@
 
 <div align=center>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=PushpikaSandaruwan&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
 </div>
 
 </div>
