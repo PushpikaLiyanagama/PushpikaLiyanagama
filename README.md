@@ -1,76 +1,96 @@
-<div align=center>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+I'm+Pushpika+Sandaruwan...)](https://git.io/typing-svg)
-  
-` SOFTWARE ENGINEERING UNDERGRADUATE @ SLTC RESEARCH UNIVERSITY 😇 `
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Pushpika%20Sandaruwan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%40%20SLTC%20Research%20University&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br/>
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009398495343)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/authuser=pushpikaliyanagama@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpika-sandaruwan-liyanagama-04b827279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;
-  
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpika-sandaruwan-liyanagama-04b827279)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pushpikaliyanagama@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009398495343)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-6366F1?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Qh2soiC0CBoayhJOKkVIGrcw_ul-vdfy/view?usp=drive_link)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=PushpikaLiyanagama&color=6366f1&style=flat-square&label=Profile+Views)
+
 </div>
 
-#
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name:       Pushpika Sandaruwan Liyanagama
+location:   Sri Lanka 🇱🇰
+university: SLTC Research University
+focus:      Full Stack Web Development
+learning:   Machine Learning
+interests:
+  - Building scalable web applications
+  - Database architecture & system design
+  - Open source contribution
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PushpikaLiyanagama&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpikaLiyanagama&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=false"/>
+
 <br/>
 
-> ### <sup>ABOUT ME</sup>
+[![GitHub Streak](https://streak-stats.demolab.com?user=PushpikaLiyanagama&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
-&emsp;&emsp; :man_student: &nbsp; ***Studied at SLTC Research University***
-
-&emsp;&emsp; :computer: &nbsp; ***Contributing to Frontend and Backend for building Web Applications***
-
-&emsp;&emsp; :seedling: &nbsp; ***Currently Learning Machine Learning***
-
-&emsp;&emsp; :star: &nbsp; ***[HERE IS MY RESUME](https://drive.google.com/file/d/1Qh2soiC0CBoayhJOKkVIGrcw_ul-vdfy/view?usp=drive_link)*** <br/>
-
-#
 <br/>
 
-> ### <sup>SKILLS</sup>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PushpikaLiyanagama&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f120&hide_border=false&border_color=6366f1&radius=10)](https://github.com/PushpikaLiyanagama)
 
-<div align=center>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-</div><br/>
-
-#
-<br/>
-
-> ### <sup>STATS</sup>
-
-<div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushpikaLiyanagama&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PushpikaLiyanagama&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=PushpikaLiyanagama&count_private=true&show_icons=true&&theme=vision-friendly-dark"/><br/>
-
-[![GAG](https://github-readme-activity-graph.vercel.app/graph?username=PushpikaLiyanagama&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/PushpikaLiyanagama/github-readme-activity-graph)
-
-<div align=center>
-  
- 
 </div>
 
-</div>
-<br/>
+---
 
-<div align=right>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
