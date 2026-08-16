@@ -94,8 +94,7 @@ interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PushpikaLiyanagama&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpikaLiyanagama&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=false"/>
+
 
 <br/>
 
